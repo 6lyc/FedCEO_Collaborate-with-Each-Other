@@ -1,6 +1,6 @@
-# FedCEO-Collaborate-with-Each-Other
+# FedCEO-Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (ICML 2025)
 
-This repository contains the code for our paper:
+The implementation of our paper:
 
 Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off
 
