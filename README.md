@@ -1,4 +1,4 @@
-# FedCEO-Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (ICML 2025)
+# Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (ICML 2025)
 
 The implementation of our paper:
 
