@@ -4,7 +4,7 @@
 
 The implementation of our paper:
 
-[Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off](https://arxiv.org/pdf/2402.07002)
+[Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off](https://arxiv.org/pdf/2402.07002) (**FedCEO**)
 
 
 ## Dependence
@@ -17,12 +17,10 @@ The EMNIST and CIFAR10 datasets are downloaded automatically by the `torchvision
 
 ## Usage
 
-We provide scripts that has been tested to produce the results stated in our paper (utility experiments and privacy experiments).
-Please find them under the file: `train.sh`.
+We provide scripts that have been tested to produce the results stated in our paper (utility experiments and privacy experiments).
+Please find them in the file: `train.sh`.
 
-In the following, we explain several important options.
-
-### Explanation of flags
+## Flags
 - FL related
 
   - `args.epochs`: The number of communication rounds.
@@ -45,7 +43,16 @@ In the following, we explain several important options.
   - `args.dataset`: cifar10 or emnist.
   - `args.index`: The index for leaking images on Dataset.
 
+## Citation  
 
+```BibTex
+@article{li2024clients,
+  title={Clients collaborate: Flexible differentially private federated learning with guaranteed improvement of utility-privacy trade-off},
+  author={Li, Yuecheng and Wang, Tong and Chen, Chuan and Lou, Jian and Chen, Bin and Yang, Lei and Zheng, Zibin},
+  journal={arXiv preprint arXiv:2402.07002},
+  year={2024}
+}
+```
 
 
 
