@@ -20,7 +20,7 @@ def args_parser():
                         help='learning rate')
     parser.add_argument('--momentum', type=float, default=0.5,
                         help='SGD momentum (default: 0.5)')
-    parser.add_argument('--privacy', type=bool, default=True, help='Adopt the DP Gaussian mechanism or not.')
+    parser.add_argument('--privacy', type=bool, default=True, help='Adopt the user-level DP Gaussian mechanism or not.')
     parser.add_argument('--noise_multiplier', type=float, default=1.0, help='The ratio of the standard deviation of the Gaussian noise to the L2-sensitivity of the function to which the noise is added (How much noise to add)')
     parser.add_argument('--flag', type=bool, default=True, help="Using our low-rank processing or not.")
     

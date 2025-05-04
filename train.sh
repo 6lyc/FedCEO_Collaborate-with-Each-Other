@@ -2,10 +2,10 @@
 
 # utility exps
 # FedAvg
-nohup python -u LDP_FedAvg.py --privacy "" --flag "" --dataset cifar10 --model "cnn" > ./logs/log_fedavg_cifar10_LeNet.log 2>&1 &
+nohup python -u udp_FedAvg.py --privacy "" --flag "" --dataset cifar10 --model "cnn" > ./logs/log_fedavg_cifar10_LeNet.log 2>&1 &
 
-# LDP-FedAvg
-nohup python -u LDP_FedAvg.py --privacy True --flag "" --noise_multiplier 2.0 --dataset "cifar10" --model "cnn" > ./logs/log_ldp_fedavg_noise=2.0_cifar10_LeNet.log 2>&1 &
+# UDP-FedAvg
+nohup python -u udp_FedAvg.py --privacy True --flag "" --noise_multiplier 2.0 --dataset "cifar10" --model "cnn" > ./logs/log_udp_fedavg_noise=2.0_cifar10_LeNet.log 2>&1 &
 
 # Our FedCEO
 # CIFAR-10

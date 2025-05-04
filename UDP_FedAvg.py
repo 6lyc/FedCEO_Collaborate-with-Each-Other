@@ -1,4 +1,4 @@
-# LDP-FedAvg
+# UDP-FedAvg
 import torch
 from tensorboardX import SummaryWriter
 
