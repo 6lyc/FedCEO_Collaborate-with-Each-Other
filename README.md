@@ -1,10 +1,14 @@
-# Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (ICML 2025)
+# Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (ICML 2025, CCF A, CORE A*)
 
-> 📣 01/05/25: This paper has been accepted to ICML 2025!
+> 📣 02/08/25: Update the _Slide_ and _Video_ in ICML 2025!
+
+> 📣 01/05/25: This paper has been accepted to **ICML 2025**!
 
 The implementation of our paper:
 
 [Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off](https://arxiv.org/pdf/2402.07002) (**FedCEO**)
+
+[[OpenReview](https://openreview.net/forum?id=C7dmhyTDrx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))] [[Slide&Video](https://icml.cc/virtual/2025/poster/46080)]
 
 
 ## Dependence
