@@ -1,5 +1,9 @@
-# Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off (FedCEO at ICML 2025, CCF A, CORE A*)
+# FedCEO: *"Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off"* (ICML 2025, CCF A, CORE A*)
 
+<ml heart paper weekly gzh>
+
+<mit tech>
+  
 <x update>
   
 > 📣 02/08/25: Update the _Slide_ and _Video_ in ICML 2025!
