@@ -16,7 +16,7 @@ def args_parser():
                         help="the number of local epochs: E")
     parser.add_argument('--local_bs', type=int, default=64,
                         help="local batch size: B")
-    parser.add_argument('--lr', type=float, default=0.1,
+    parser.add_argument('--lr', type=float, default=0.01,
                         help='learning rate')
     parser.add_argument('--momentum', type=float, default=0.5,
                         help='SGD momentum (default: 0.5)')
@@ -76,3 +76,4 @@ def args_parser():
 
     args = parser.parse_args()
     return args
+
