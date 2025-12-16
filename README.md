@@ -129,11 +129,13 @@ We visualize the trade-off between utility (test accuracy) and privacy (ε_p) on
 ## Citation  
 
 ```BibTex
-@article{li2024clients,
-  title={Clients collaborate: Flexible differentially private federated learning with guaranteed improvement of utility-privacy trade-off},
-  author={Li, Yuecheng and Fu, Lele and Wang, Tong and Lou, Jian and Chen, Bin and Yang, Lei and Shen, Jian and Zheng, Zibin and Chen, Chuan},
-  journal={arXiv preprint arXiv:2402.07002},
-  year={2024}
+@inproceedings{
+li2025clients,
+title={Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off},
+author={Yuecheng Li and Lele Fu and Tong Wang and Jian Lou and Bin Chen and Lei Yang and Jian Shen and Zibin Zheng and Chuan Chen},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=C7dmhyTDrx}
 }
 ```
 
