@@ -19,7 +19,7 @@ The official implementation of our paper:
 [[ArXiv](https://arxiv.org/abs/2402.07002)] [[OpenReview](https://openreview.net/forum?id=C7dmhyTDrx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))] [[Slide&Video](https://icml.cc/virtual/2025/poster/46080)] [[X](https://x.com/Yuecheng_Lee/status/1964308641055723827)] [[中文博客](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247712832&idx=2&sn=6d35c7d8fca09214367ca2b63f99bfd4&chksm=975656b330afd9317064c6ea068543b42436aec686d2dbeb2c322fe7fd8044746b638f8c2d8c&mpshare=1&scene=24&srcid=1122sjo91pjKnm1C5zeNE9PR&sharer_shareinfo=dd55ea0fd95260f0f70261dc41dd6818&sharer_shareinfo_first=dd55ea0fd95260f0f70261dc41dd6818#rd)] [[Blog](https://medium.com/data-science-collective/icml-2025-the-art-of-balance-in-federated-learning-the-fedceo-framework-cracks-the-dilemma-of-326c9d8bd5fe)]
 
 <div align="center">
-  <img width="666" height="388" alt="Cover_github" src="https://github.com/user-attachments/assets/20dacec6-f69c-48dd-8bd8-df7cc8b0bdce" />
+  <img width="800" height="388" alt="Cover_github" src="https://github.com/user-attachments/assets/20dacec6-f69c-48dd-8bd8-df7cc8b0bdce" />
 </div>
 
 ## Abstract
